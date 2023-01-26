@@ -5,8 +5,17 @@ A calculator that calculates simple interest , given principal, annual rate of i
 Input:
 
    p, principal amount
+   
    n, no of years
+   
    r, annual rate of interest
+   
    
 Output
    simple interest = p*n*r
+
+
+
+
+
+[© 2022 XYZ, Inc.]
